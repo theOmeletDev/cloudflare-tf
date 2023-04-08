@@ -1,2 +1,2 @@
 # cloudflare-tf
-My Infra repo for codeomelet
+My repo for codeomelet cloudflare
